@@ -1,0 +1,8 @@
+{
+  "Id": "MultiKeyboardProbeClean",
+  "DisplayName": "MultiKeyboardProbeClean",
+  "Author": "OpenClaw",
+  "Version": "0.1.14-pausemenu-esc",
+  "AssemblyName": "MultiKeyboardProbeClean.dll",
+  "EntryMethod": "MultiKeyboardProbeClean.Main.Load"
+}
